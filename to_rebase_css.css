@@ -1,4 +1,5 @@
 .to_rebase_again {
     display:  flex;
     flex-direction: column;
+    align-items: center;
 }
